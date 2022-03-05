@@ -1,0 +1,18 @@
+
+/* Nav wrapper */
+#nav_wrapper{
+    background: url(../images/profile-background_Artboard\ 2.jpg)center fixed no-repeat;
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+.logo img{
+    width: 110px;
+}
+.profile{
+    width: 600px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 254%;
+    left: 20%;
+}
